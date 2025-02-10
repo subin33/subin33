@@ -49,14 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 <p>
   <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat-square&logo=firefox&logoColor=white"/></a>
