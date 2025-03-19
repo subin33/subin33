@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
 
 ---
