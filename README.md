@@ -16,10 +16,9 @@
 ---
 
 ### 🚀 About Me
-- 🎨 Frontend-focused, but love exploring backend tech too!
-- 📍 Based in South Korea
-- 🏗 Constantly building, learning, and improving
-- 💬 Ask me about JavaScript, React, Vue, and Web Animations
+- 🌱 Always striving for growth
+- 🤝 Believes that communication is a real strength
+- 🧩 Passionate about creating intuitive UI/UX
 
 ---
 
