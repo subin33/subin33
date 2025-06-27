@@ -3,9 +3,9 @@
   Hey! Nice to see you.
 </h1>
 
-<p >
+<p>
   <strong>Welcome to my page!</strong> <br>
-  I'm <strong>Noh SuBin</strong>, a passionate <strong>Front-End Developer</strong> who loves crafting beautiful and functional web experiences.
+  I'm a passionate <strong>Front-End Developer</strong> dedicated to building beautiful and functional web experiences.
 </p>
 
 <p>
