@@ -1,47 +1,43 @@
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hey! Nice to see you.
-</h1>
+<h1 align="center">✨ Front-End Developer ✨</h1>
 
-<p>
-  <strong>Welcome to my page!</strong> <br>
-  I'm a passionate <strong>Front-End Developer</strong> dedicated to building beautiful and functional web experiences.
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />
 </p>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Front-End+Developer;Always+Learning+New+Tech;Clean+and+Efficient+Code" alt="Typing SVG">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Hello!+I'm+Subin;Front-End+Developer;Always+Learning+New+Tech;Clean+and+Efficient+Code" alt="Typing SVG" />
 </p>
 
+<p align="center">Learning, growing, and improving every single day.</p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Always striving for growth
-- 🤝 Believes that communication is a real strength
-- 🧩 Passionate about creating intuitive UI/UX
+## 🌟 Philosophy
+> *"Design is not just what it looks like and feels like. Design is how it works."*
+
+- 🔍 Focusing on details & user needs  
+- 🧩 Continuously growing and learning  
+- 🚀 Designing intuitive, human-centered interfaces  
+- 🤝 Building through clear and open communication  
 
 ---
 
-### 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-0081CB?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,vue,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,vercel,netlify&theme=light" />
+</p>
+
+---
+
+## 📊 Dev Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subin33&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=subin33&theme=default&hide_border=true" height="150" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subin33&layout=compact&theme=default&hide_border=true" height="150" /> -->
+</p>
+
+---
+
+<p align="center">
+  <sub>Made with JavaScript • Always exploring, always learning</sub>
 </p>
