@@ -26,18 +26,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,vue,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,vercel,netlify&theme=light" />
 </p>
-
----
-
-## 📊 Dev Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subin33&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=subin33&theme=default&hide_border=true" height="150" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subin33&layout=compact&theme=default&hide_border=true" height="150" /> -->
-</p>
-
----
-
-<p align="center">
-  <sub>Made with JavaScript • Always exploring, always learning</sub>
-</p>
