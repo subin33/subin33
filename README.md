@@ -17,9 +17,3 @@
 - 🚀 Creating intuitive and performant solutions  
 - 🤝 Collaboration through clear and open communication
 
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,vue,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,vercel,netlify&theme=light" />
-</p>
